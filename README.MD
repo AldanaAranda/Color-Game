@@ -19,4 +19,4 @@ Este proyecto es un juego interactivo donde el jugador tiene que adivinar un col
 
 ## 🚀 Cómo Visualizar el Proyecto
 
-Puedes acceder al proyecto directamente desde este enlace: 
+Puedes acceder al proyecto directamente desde este enlace: [Enlace al proyecto](https://color-game-aldi.netlify.app/)
