@@ -4,6 +4,7 @@ let pickedColor = pickColor();
 
 const square = document.querySelectorAll(".square");
 let colorDisplay = document.querySelector("#colorDisplay");
+colorDisplay.textContent = pickedColor
 let messageDisplay = document.querySelector("#message");
 let h1 = document.querySelector("h1");
 let resetButton = document.querySelector("#reset");
